@@ -1,0 +1,12 @@
+groq
+chromadb
+kuzu
+sentence-transformers
+tavily-python
+duckduckgo-search
+pydantic>=2.0
+python-dotenv
+pyyaml
+prompt_toolkit
+rich
+httpx
