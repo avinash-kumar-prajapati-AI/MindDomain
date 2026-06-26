@@ -14,9 +14,10 @@
 **AliveGraphRAG** is a lightweight, self-improving hybrid GraphRAG (Retrieval-Augmented Generation) engine. By coupling a dense vector database (ChromaDB) with a semantic graph database (KuzuDB), it delivers contextual accuracy on factual comparisons, entity relations, and multi-hop queries. It features a self-improving memory loop powered by user feedback and a web search fallback.
 
 ## Screenshots
-![alt text](image.png)
+<img width="1007" height="659" alt="Screenshot 2026-06-26 103844" src="https://github.com/user-attachments/assets/62d49450-608e-4490-8dc3-c750ad00bf84" />
 
-![alt text](image-1.png)
+<img width="1009" height="824" alt="image" src="https://github.com/user-attachments/assets/533ad42a-0ff8-46e3-a8d5-f4aec3ab7d63" />
+
 ---
 
 ## 🏗️ Architecture Flow
