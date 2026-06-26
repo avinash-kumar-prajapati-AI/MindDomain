@@ -56,3 +56,7 @@ verify_all.py
 test_llm.py
 test_ddg*.py
 test_web_pipeline.py
+hello_test.py
+implementation_plan.md
+rag_prototype_implementation_plan.md
+todo.md
