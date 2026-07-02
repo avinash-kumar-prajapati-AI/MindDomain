@@ -1,4 +1,4 @@
-# 🕸️ AliveGraphRAG
+# 🕸️ MindDomain
 
 > Self-improving hybrid GraphRAG engine powered by ChromaDB & KuzuDB · Multi-provider LLM · Web search fallback · SQLite feedback loop
 
@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-**AliveGraphRAG** is a lightweight, self-improving hybrid GraphRAG (Retrieval-Augmented Generation) engine. By coupling a dense vector database (ChromaDB) with a semantic graph database (KuzuDB), it delivers contextual accuracy on factual comparisons, entity relations, and multi-hop queries. It features a self-improving memory loop powered by user feedback and a web search fallback.
+**MindDomain** is a lightweight, self-improving hybrid GraphRAG (Retrieval-Augmented Generation) engine. By coupling a dense vector database (ChromaDB) with a semantic graph database (KuzuDB), it delivers contextual accuracy on factual comparisons, entity relations, and multi-hop queries. It features a self-improving memory loop powered by user feedback and a web search fallback.
 
 ## Screenshots
 <img width="1007" height="659" alt="Screenshot 2026-06-26 103844" src="https://github.com/user-attachments/assets/62d49450-608e-4490-8dc3-c750ad00bf84" />
@@ -79,7 +79,7 @@ graph TD
 ## 📦 Directory Structure
 
 ```
-AliveGraphRAG/
+MindDomain/
 ├── data/
 │   ├── chroma_db/      # Vector store database files (auto-created)
 │   └── kuzu_db/        # Graph database files (auto-created)
